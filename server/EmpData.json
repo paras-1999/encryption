@@ -1,0 +1,37 @@
+{
+  "EmpData": [
+    {
+      "name": "Tushar Saxena",
+      "phone": "9310414914",
+      "email": "tusharsaxena@gmail.com",
+      "age": "19",
+      "password": "U2FsdGVkX1+g5cYYNOAGB5VqiRwLn/3Wq7rSpOVS8kc=",
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "id": 1
+    },
+    {
+      "name": "Paras Saxena",
+      "phone": "9310414915",
+      "email": "paras@gmail.com",
+      "age": "22",
+      "password": "U2FsdGVkX1/NkgzNr+VbQDql5ZWorioxxPl6gap0Zmk=",
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "id": 2
+    },
+    {
+      "name": "Ravi Ranjan Kumar",
+      "phone": "9654828997",
+      "email": "raviranjan@gmail.com",
+      "age": "22",
+      "password": "U2FsdGVkX18MTvXDQsyKJX1H2XNo/OD8oRMmocxiz2s=",
+      "country": "Germany",
+      "state": "Bavaria",
+      "city": "Paris",
+      "id": 3
+    }
+  ]
+}

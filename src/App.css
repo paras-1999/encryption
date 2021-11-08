@@ -1,38 +1,26 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Bevan&family=Playball&display=swap');
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    transition: all 5000s ease-in-out 0s;
+    transition-property: background-color, color;
+}
+a{
+    text-decoration: none !important;
+    color: blue;
+}
+.heading{
+  text-align:center;
+  color:white;
+  font-family: 'Bebas Neue', cursive !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input,.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input,.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input,.css-1o9s3wi-MuiInputBase-input-MuiOutlinedInput-input{
+  color:rgb(85, 83, 82) !important;
+  font-family: 'Patua One', cursive !important;
+  font-size: large !important;
+  font-weight: lighter !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
